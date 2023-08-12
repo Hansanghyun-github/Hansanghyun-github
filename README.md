@@ -1,4 +1,6 @@
-### Hi there 👋
+![HSH's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hansanghyun-github&show_icons=true&theme=dark)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkdgus5828)](https://solved.ac/tkdgus5828/)
 
 <!--
 **Hansanghyun-github/Hansanghyun-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
