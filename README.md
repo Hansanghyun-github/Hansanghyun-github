@@ -2,8 +2,10 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkdgus5828)](https://solved.ac/tkdgus5828/)
 
-[이력서](https://statuesque-step-7d4.notion.site/133e08bbc96e808797b3ff2490440861)  
-[포트폴리오](https://statuesque-step-7d4.notion.site/151e08bbc96e80bfaff5d50edeea5647)
+---
+
+### [📃Resume Link](https://statuesque-step-7d4.notion.site/133e08bbc96e808797b3ff2490440861)
+### [📚Portfolio Link](https://statuesque-step-7d4.notion.site/151e08bbc96e80bfaff5d50edeea5647)
 
 <!--
 **Hansanghyun-github/Hansanghyun-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
