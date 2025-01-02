@@ -5,11 +5,11 @@
 ---
 
 <h3>
-    <a href="https://statuesque-step-7d4.notion.site/133e08bbc96e808797b3ff2490440861" target="_blank" rel="noopener noreferrer">📃Resume Link</a>
+    <a href="https://statuesque-step-7d4.notion.site/133e08bbc96e808797b3ff2490440861" target="_blank" rel="noopener noreferrer">📃<ins>Resume Link</ins></a>
 </h3>
 
 <h3>
-    <a href="https://statuesque-step-7d4.notion.site/151e08bbc96e80bfaff5d50edeea5647" target="_blank" rel="noopener noreferrer">📚Portfolio Link</a>
+    <a href="https://statuesque-step-7d4.notion.site/151e08bbc96e80bfaff5d50edeea5647" target="_blank" rel="noopener noreferrer">📚<ins>Portfolio Link</ins></a>
 </h3>
 
 <!--
